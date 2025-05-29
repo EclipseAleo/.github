@@ -38,6 +38,13 @@ It enables users to borrow and lend crypto assets with full privacy, powered by 
 ## 👥 Team
 Built with ❤️ by the Eclipse Team for the Aleo Hackathon 2025.
 
+- [**Florent Gaujal**](https://github.com/floflo777)
+- [**Guillaume Roboam**](https://github.com/UnMars)
+- [**Aimé Risson**](https://github.com/herissondev)
+- [**Alexandre Grondin**](https://github.com/Alexandregr13)
+
+
+
 ---
 
 ## 🧾 License
