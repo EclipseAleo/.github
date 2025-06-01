@@ -27,11 +27,18 @@ It enables users to borrow and lend crypto assets with full privacy, powered by 
 
 ## 🚀 Features
 
-- ✅ Submit and accept loan requests privately
-- ✅ Collateral handled confidentially
-- ✅ ZK-matching between borrowers and lenders
-- ✅ Track loan repayments anonymously
-- ✅ Slashing system for malicious actors
+- ✅ Oracle 
+  - ✅ Create any data feed at any time
+  - ✅ Become a provider or an aggregator and earn rewards
+  - ✅ Slashing system for malicious actors
+
+=> Decentralized fully functional public oracle, ready to be used by developers thanks to the SDK.
+    
+- ✅ Lending platform
+  - ✅ USDA Vault emission backed by Aleo without any external liquidity needed
+  - ✅ Real governance system rewarding ECLP token holders with fees issued from the vault
+
+=> Self-sustainable private lending platform already able to create value.
 
 ---
 
