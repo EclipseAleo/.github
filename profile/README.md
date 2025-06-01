@@ -32,7 +32,7 @@ It enables users to borrow and lend crypto assets with full privacy, powered by 
   - ✅ Become a provider or an aggregator and earn rewards
   - ✅ Slashing system for malicious actors
 
-=> Decentralized fully functional public oracle, ready to be used by developers thanks to the SDK.
+=> Decentralized plug and play public oracle, ready to be used by developers thanks to the SDK.
     
 - ✅ Lending platform
   - ✅ USDA Vault emission backed by Aleo without any external liquidity needed
