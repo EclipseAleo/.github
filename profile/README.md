@@ -31,7 +31,7 @@ It enables users to borrow and lend crypto assets with full privacy, powered by 
 - ✅ Collateral handled confidentially
 - ✅ ZK-matching between borrowers and lenders
 - ✅ Track loan repayments anonymously
-- 🚧 Slashing system for malicious actors (coming soon)
+- ✅ Slashing system for malicious actors
 
 ---
 
